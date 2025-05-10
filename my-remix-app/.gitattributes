@@ -1,0 +1,7 @@
+# ใช้บรรทัด LF สำหรับไฟล์ JS, CSS, HTML
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# แปลงบรรทัดอัตโนมัติสำหรับไฟล์ประเภทอื่นๆ
+* text=auto
