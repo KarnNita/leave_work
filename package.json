@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "emailjs-com": "^3.2.0",
+    "react": "^18.3.1",
+    "react-datepicker": "^8.3.0",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.21",
+    "@types/react-datepicker": "^6.2.0",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "5.3"
+  }
+}
